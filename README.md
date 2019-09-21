@@ -32,11 +32,30 @@ Subject https://github.com/fpetras/42-subjects/blob/master/init.en.pdf
 Subject https://abguimba.github.io/PDFs/42-roger-skyline-1.5.en.pdf
 - Piscine PHP – интенсив по веб-разработке, включающий в себя курс HTML/CSS/PHP/SQL.
 Subject https://github.com/maksru/Piscine-PHP/tree/master/Day_00-HTML-CSS
-- Corewar – финальный проект в ветке алгоритмов. 
+- Corewar – финальный проект в ветке алгоритмов. Краткое описание: Две программы в своей естественной среде обитания – компьютерной памяти – гоняются друг за другом от адреса к адресу. Иногда они выслеживают врага; иногда закладывают батареи цифровых бомб; иногда они копируют сами себя в другое место памяти, чтобы избежать опасности или останавливаются, чтобы поправить нанесенный противником ущерб. Subject https://github.com/maxencejded/corewar/blob/master/corewar.en.pdf
 
-Краткое описание:
-Две программы в своей естественной среде обитания – компьютерной памяти – гоняются друг за 
-другом от адреса к адресу. Иногда они выслеживают врага; иногда закладывают батареи цифровых 
-бомб; иногда они копируют сами себя в другое место памяти, чтобы избежать опасности или 
-останавливаются, чтобы поправить нанесенный противником ущерб. 
-Subject https://github.com/maxencejded/corewar/blob/master/corewar.en.pdf
+# Пройденные курсы
+
+### Asynchronous Programming with Javascript
+https://www.edx.org/course/asynchronous-programming-javascript-1
+
+### Introduction to NodeJS
+https://www.edx.org/course/introduction-to-nodejs-4
+
+### M001: MongoDB Basics
+https://university.mongodb.com/courses/M001/about
+
+### M220JS: MongoDB for Javascript Developers
+https://university.mongodb.com/courses/M220JS/about
+
+### M121: The MongoDB Aggregation Framework
+https://university.mongodb.com/courses/M121/about
+
+### Introduction to ReactJS
+https://www.edx.org/course/introduction-to-reactjs-3
+
+### React Router and Redux
+https://www.edx.org/course/react-router-and-redux-2
+
+### Asynchronous JavaScript
+https://www.codecademy.com/learn/asynchronous-javascript
